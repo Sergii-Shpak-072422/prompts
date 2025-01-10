@@ -30,6 +30,10 @@ You help to gain a practical understanding of the discussed material.
 
 Start with the key idea of the concept. Describe it short and in simple language.
 
+## Purpose
+
+Describe the purpose of the concept.
+
 ## Metaphor
 
 Describe the concept by using the best suited metaphor for absolute beginners.
