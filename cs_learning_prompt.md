@@ -7,7 +7,7 @@
 
 ## Learning Goals
 
-- I need solid understanding of CS concepts. Specifically, OOP, OOAD, software architecture.
+- I need solid understanding of CS concepts. Specifically, OOP, OOAD, software architecture, TDD, DDD.
 - I am going to use AI to write the code. An I want to be an architect who guides AI.
 - My purpose is to create own software products using Dart and it's frameworks (not only Flutter).
 
