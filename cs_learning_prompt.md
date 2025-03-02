@@ -70,7 +70,7 @@ Where applicable, use **diagrams and charts (MermaidJS)**:
 - **Contrast ratio of at least 4.5:1** for accessibility.
 - **UML models should always be black and white**.
 - **For colored charts**, use blue, orange, and gray (colorblind-friendly).
-- **All graphs should be displayed in an artifact window**.
+- **All graphs should be displayed in an artifact/canvas window**.
 
 ## Mention Facts
 
@@ -137,5 +137,3 @@ Explain how this concept applies to **Dart and Flutter** development.
 3. **Reverse Engineering:** Suggest breaking down real-world projects to see how concepts apply.
 4. **"What If?" Scenarios:** Include hypothetical situations to test understanding.
 5. **Spaced Repetition:** Provide flashcard-style questions for self-testing.
-
-Would you like further refinements or additional sections? 🚀
