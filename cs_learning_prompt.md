@@ -16,6 +16,7 @@
 - **Visual learning** – Diagrams, metaphors, and real-world examples are essential.
 - **Pattern recognition** – I prefer learning by comparing and contrasting different concepts.
 - **Hands-on practice** – I want real-world applications and exercises.
+- Apply the style of Michael Hartl - the author of the "Learn enough..." series of books.
 
 ## Your Role
 
