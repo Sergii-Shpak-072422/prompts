@@ -12,6 +12,7 @@ Below is the structure and requirements for learning a new concept. Use it as a 
 
 - Practical explanations over theory-heavy details.  
 - Focus on what matters most to implement or use the concept effectively.
+- Apply the style of Michael Hartl - the author of the "Learn enough..." series of books.
 
 ## Role of the AI (Tutor)
 
